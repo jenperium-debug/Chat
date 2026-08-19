@@ -1,9 +1,7 @@
 -- ============================================================
--- RYZEN X v1.0 - ROBLOX SCRIPT (ЛИЧНОЕ ИСПОЛЬЗОВАНИЕ)
+-- RYZEN X v1.1 - ROBLOX SCRIPT (ЛИЧНОЕ ИСПОЛЬЗОВАНИЕ)
 -- ============================================================
--- ВНИМАНИЕ! Использование сторонних скриптов в Roblox 
--- нарушает правила платформы. Данный код предоставлен 
--- исключительно в образовательных целях.
+-- ИЗМЕНЕНИЯ: КЛАВИША INSERT ЗАМЕНЕНА НА END
 -- ============================================================
 
 local Players = game:GetService("Players")
@@ -63,7 +61,7 @@ local function CreateMenu()
     Title.BackgroundColor3 = Color3.fromRGB(0, 200, 50)
     Title.BackgroundTransparency = 0.3
     Title.BorderSizePixel = 0
-    Title.Text = "RYZEN X v1.0"
+    Title.Text = "RYZEN X v1.1"
     Title.TextColor3 = Colors.White
     Title.TextSize = 22
     Title.TextScaled = true
@@ -232,7 +230,7 @@ local function CreateMenu()
     KeyLabel.Size = UDim2.new(0.6, 0, 1, 0)
     KeyLabel.Position = UDim2.new(0, 5, 0, 0)
     KeyLabel.BackgroundTransparency = 1
-    KeyLabel.Text = "Toggle Menu: [INSERT]"
+    KeyLabel.Text = "Toggle Menu: [END]"
     KeyLabel.TextColor3 = Colors.White
     KeyLabel.TextSize = 14
     KeyLabel.TextXAlignment = Enum.TextXAlignment.Left
@@ -483,8 +481,8 @@ end)
 UserInputService.InputBegan:Connect(function(input, gameProcessed)
     if gameProcessed then return end
     
-    -- Открытие меню по Insert
-    if input.KeyCode == Enum.KeyCode.Insert then
+    -- Открытие меню по END (вместо INSERT)
+    if input.KeyCode == Enum.KeyCode.End then
         Settings.MenuOpen = not Settings.MenuOpen
         MainFrame.Visible = Settings.MenuOpen
         return
@@ -519,8 +517,8 @@ LocalPlayer.CharacterAdded:Connect(function()
 end)
 
 -- ==================== ЗАПУСК ====================
-print("RYZEN X v1.0 Загружен!")
-print("[INSERT] - Открыть меню")
+print("RYZEN X v1.1 Загружен!")
+print("[END] - Открыть меню")
 print("[F1] - Aimbot")
 print("[F2] - Fly")
 print("[F3] - Noclip")
