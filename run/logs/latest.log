@@ -1,0 +1,641 @@
+[13:11:46] [main/INFO]: Extra: []
+[13:11:46] [main/INFO]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Semka/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:11:46] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:11:46] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:11:46] [main/INFO]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:11:46] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[13:11:46] [main/INFO]: Forge Mod Loader version 14.23.5.2847 for Minecraft 1.12.2 loading
+[13:11:46] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_504, running on Windows 11:amd64:10.0, installed at C:\Program Files\Eclipse Adoptium\jdk-8.0.504.1-hotspot\jre
+[13:11:46] [main/ERROR]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[13:11:46] [main/ERROR]: Full: C:\Users\Semka\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[13:11:46] [main/ERROR]: Trimmed: c:/users/semka/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[13:11:46] [main/INFO]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[13:11:46] [main/INFO]: Detected deobfuscated environment, loading log configs for colored console logs.
+[13:11:46] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugininecraftFormatting
+[13:11:46] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugininecraftFormatting
+[13:11:46] [main/INFO] [FML]: Searching C:\Users\Semka\Desktop\Cars\run\.\mods for modsinecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweakerinecraftFormatting
+[13:11:46] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugininecraftFormatting
+[13:11:46] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugininecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweakerinecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweakerinecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweakerinecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapperinecraftFormatting
+[13:11:46] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thinginecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapperinecraftFormatting
+[13:11:46] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweakerinecraftFormatting
+[13:11:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweakerinecraftFormatting
+[13:11:47] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweakerinecraftFormatting
+[13:11:47] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweakerinecraftFormatting
+[13:11:47] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}inecraftFormatting
+[13:11:47] [Client thread/INFO] [net.minecraft.client.Minecraft]: Setting user: Player837inecraftFormatting
+[13:11:48] [Client thread/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4inecraftFormatting
+[13:11:49] [Client thread/INFO] [FML]: Could not load splash.properties, will create a default oneinecraftFormatting
+[13:11:49] [Client thread/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 1.8.0_504, Temurin
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
+	Memory: 196535752 bytes (187 MB) / 571998208 bytes (545 MB) up to 3784310784 bytes (3609 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 610.88' Renderer: 'NVIDIA GeForce RTX 4060/PCIe/SSE2'inecraftFormatting
+[13:11:49] [Client thread/INFO] [FML]: MinecraftForge v14.23.5.2847 InitializedinecraftFormatting
+[13:11:49] [Client thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.inecraftFormatting
+[13:11:49] [Client thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...inecraftFormatting
+[13:11:49] [Client thread/INFO] [FML]: Replaced 1227 ore ingredientsinecraftFormatting
+[13:11:49] [Client thread/INFO] [FML]: Searching C:\Users\Semka\Desktop\Cars\run\.\mods for modsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Forge Mod Loader has identified 5 mods to loadinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, cars] at CLIENTinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, cars] at SERVERinecraftFormatting
+[13:11:50] [Client thread/INFO] [net.minecraft.client.resources.SimpleReloadableResourceManager]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CarsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Processing ObjectHolder annotationsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Found 1168 ObjectHolder annotationsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Identifying ItemStackHolder annotationsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Found 0 ItemStackHolder annotationsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Configured a dormant chunk cache size of 0inecraftFormatting
+[13:11:50] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.jsoninecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Injecting itemstacksinecraftFormatting
+[13:11:50] [Client thread/INFO] [FML]: Itemstack injection completeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ambient.caveinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.destroyinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.anvil.useinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.brewing_stand.brewinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chest.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chest.lockedinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chest.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chorus_flower.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.chorus_flower.growinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.cloth.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.comparator.clickinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.dispenser.dispenseinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.dispenser.failinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.dispenser.launchinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.enchantment_table.useinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.end_gateway.spawninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.end_portal.spawninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.end_portal_frame.fillinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.enderchest.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.enderchest.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.fence_gate.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.fence_gate.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.fire.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.fire.extinguishinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.furnace.fire_crackleinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.glass.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.grass.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.gravel.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.iron_door.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.iron_door.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.iron_trapdoor.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.iron_trapdoor.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.ladder.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.lava.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.lava.extinguishinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.lava.popinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.lever.clickinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal_pressureplate.click_offinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.metal_pressureplate.click_oninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.basedruminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.bassinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.bellinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.chimeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.fluteinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.guitarinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.harpinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.hatinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.plinginecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.snareinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.note.xylophoneinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.piston.contractinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.piston.extendinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.portal.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.portal.travelinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.portal.triggerinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.redstone_torch.burnoutinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.sand.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.shulker_box.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.shulker_box.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.slime.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.snow.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone_button.click_offinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone_button.click_oninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone_pressureplate.click_offinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.stone_pressureplate.click_oninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.tripwire.attachinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.tripwire.click_offinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.tripwire.click_oninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.tripwire.detachinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.water.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.waterlily.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood_button.click_offinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood_button.click_oninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood_pressureplate.click_offinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wood_pressureplate.click_oninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wooden_door.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wooden_door.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wooden_trapdoor.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:block.wooden_trapdoor.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:enchant.thorns.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.armorstand.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.armorstand.fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.armorstand.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.armorstand.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.arrow.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.arrow.hit_playerinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.arrow.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.loopinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bat.takeoffinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.burninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.blaze.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.boat.paddle_landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.boat.paddle_waterinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bobber.retrieveinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bobber.splashinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.bobber.throwinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.hissinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.purrinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cat.purreowinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.egginecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.chicken.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.milkinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.cow.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.creeper.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.creeper.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.creeper.primedinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.angryinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.chestinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.donkey.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.egg.throwinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.ambient_landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.curseinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.death_landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.flopinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.elder_guardian.hurt_landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.flapinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.growlinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderdragon_fireball.explodeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endereye.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endereye.launchinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.screaminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.stareinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermen.teleportinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermite.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermite.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermite.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.endermite.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.enderpearl.throwinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_fangs.attackinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.cast_spellinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.prepare_attackinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.prepare_summoninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.evocation_illager.prepare_wololoinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.experience_bottle.throwinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.experience_orb.pickupinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.blastinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.blast_farinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.large_blastinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.large_blast_farinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.launchinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.twinkleinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.firework.twinkle_farinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.big_fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.burninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.drinkinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.eatinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.explodeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.extinguish_fireinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.small_fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.splashinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.generic.swiminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.screaminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.ghast.warninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.ambient_landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.attackinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.death_landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.flopinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.guardian.hurt_landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.angryinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.armorinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.breatheinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.eatinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.gallopinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.jumpinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.landinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.saddleinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.horse.step_woodinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.big_fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.small_fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.splashinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.hostile.swiminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.husk.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.husk.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.husk.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.husk.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.cast_spellinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.mirror_moveinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.prepare_blindnessinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.illusion_illager.prepare_mirrorinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.irongolem.attackinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.irongolem.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.irongolem.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.irongolem.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.item.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.item.pickupinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.add_iteminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.remove_iteminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.itemframe.rotate_iteminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.leashknot.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.leashknot.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.lightning.impactinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.lightning.thunderinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.lingeringpotion.throwinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.angryinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.chestinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.eatinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.spitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.llama.swaginecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.magmacube.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.magmacube.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.magmacube.jumpinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.magmacube.squishinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.minecart.insideinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.minecart.ridinginecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mooshroom.shearinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mule.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mule.chestinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mule.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.mule.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.painting.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.painting.placeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.eatinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.flyinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.blazeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.creeperinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.elder_guardianinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.enderdragoninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.endermaninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.endermiteinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.evocation_illagerinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.ghastinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.huskinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.illusion_illagerinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.magmacubeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.polar_bearinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.shulkerinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.silverfishinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.skeletoninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.slimeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.spiderinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.strayinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.vexinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.vindication_illagerinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.witchinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.witherinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.wither_skeletoninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.wolfinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.zombieinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.zombie_pigmaninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.imitate.zombie_villagerinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.parrot.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.saddleinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.pig.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.critinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.knockbackinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.nodamageinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.stronginecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.sweepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.attack.weakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.big_fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.breathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.burpinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.hurt_drowninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.hurt_on_fireinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.levelupinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.small_fallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.splashinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.player.swiminecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.baby_ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.polar_bear.warninginecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.attackinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.rabbit.jumpinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.shearinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.sheep.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.closeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.hurt_closedinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.openinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker.teleportinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker_bullet.hitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.shulker_bullet.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.silverfish.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.silverfish.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.silverfish.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.silverfish.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton_horse.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton_horse.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.skeleton_horse.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.attackinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.jumpinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.slime.squishinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_magmacube.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_magmacube.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_magmacube.squishinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_slime.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_slime.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_slime.jumpinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.small_slime.squishinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowball.throwinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowman.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowman.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowman.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.snowman.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.spider.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.spider.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.spider.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.spider.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.splash_potion.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.splash_potion.throwinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.squid.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.squid.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.squid.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.stray.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.stray.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.stray.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.stray.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.tnt.primedinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vex.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vex.chargeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vex.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vex.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.noinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.tradinginecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.villager.yesinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vindication_illager.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vindication_illager.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.vindication_illager.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.drinkinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.witch.throwinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.break_blockinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.shootinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither.spawninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither_skeleton.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither_skeleton.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither_skeleton.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wither_skeleton.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.growlinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.howlinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.pantinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.shakeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.wolf.whineinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.attack_door_woodinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.attack_iron_doorinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.break_door_woodinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.infectinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_horse.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_horse.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_horse.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_pig.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_pig.angryinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_pig.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_pig.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.ambientinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.convertedinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.cureinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.deathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.hurtinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:entity.zombie_villager.stepinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_chaininecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_diamondinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_elytrainecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_genericinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_goldinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_ironinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.armor.equip_leatherinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bottle.emptyinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bottle.fillinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bottle.fill_dragonbreathinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bucket.emptyinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bucket.empty_lavainecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bucket.fillinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.bucket.fill_lavainecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.chorus_fruit.teleportinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.elytra.flyinginecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.firecharge.useinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.flintandsteel.useinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.hoe.tillinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.shield.blockinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.shield.breakinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.shovel.flatteninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:item.totem.useinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.creativeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.creditsinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.dragoninecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.endinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.gameinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.menuinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:music.netherinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.11inecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.13inecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.blocksinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.catinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.chirpinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.farinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.mallinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.mellohiinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.stalinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.stradinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.waitinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:record.wardinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ui.button.clickinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ui.toast.ininecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ui.toast.outinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:ui.toast.challenge_completeinecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:weather.raininecraftFormatting
+[13:11:50] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Missing sound for event: minecraft:weather.rain.aboveinecraftFormatting
+[13:11:50] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Starting up SoundSystem...inecraftFormatting
+[13:11:50] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: Initializing LWJGL OpenALinecraftFormatting
+[13:11:50] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)inecraftFormatting
+[13:11:50] [Thread-5/INFO] [net.minecraft.client.audio.SoundManager]: OpenAL initialized.inecraftFormatting
+[13:11:51] [Sound Library Loader/INFO] [net.minecraft.client.audio.SoundManager]: Sound engine startedinecraftFormatting
+[13:11:51] [Thread-3/INFO] [FML]: Using sync timing. 200 frames of Display.update took 65557200 nanosinecraftFormatting
+[13:11:51] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: OUTDATED Target: 14.23.5.2859inecraftFormatting
+[13:11:52] [Client thread/INFO] [FML]: Max texture size: 16384inecraftFormatting
+[13:11:52] [Client thread/INFO] [net.minecraft.client.renderer.texture.TextureMap]: Created: 512x512 textures-atlasinecraftFormatting
+[13:11:52] [Client thread/INFO] [FML]: Applying holder lookupsinecraftFormatting
+[13:11:52] [Client thread/INFO] [FML]: Holder lookups appliedinecraftFormatting
+[13:11:52] [Client thread/INFO] [STDOUT]: [com.cars.project.Cars:init:10]: Hello from Legacy Forge!inecraftFormatting
+[13:11:52] [Client thread/INFO] [FML]: Injecting itemstacksinecraftFormatting
+[13:11:52] [Client thread/INFO] [FML]: Itemstack injection completeinecraftFormatting
+[13:11:52] [Client thread/INFO] [FML]: Forge Mod Loader has successfully loaded 5 modsinecraftFormatting
+[13:11:52] [Client thread/INFO] [com.mojang.text2speech.NarratorWindows]: Narrator library for x64 successfully loadedinecraftFormatting
+[13:11:53] [Realms Notification Availability checker #1/INFO] [com.mojang.realmsclient.client.RealmsClient]: Could not authorize you against Realms server: java.lang.RuntimeException: Failed to parse into SignedJWT: FMLinecraftFormatting
+[13:12:02] [Client thread/INFO] [net.minecraft.client.Minecraft]: Stopping!inecraftFormatting
+[13:12:02] [Client thread/INFO] [net.minecraft.client.audio.SoundManager]: SoundSystem shutting down...inecraftFormatting
+[13:12:03] [Client thread/WARN] [net.minecraft.client.audio.SoundManager]: Author: Paul Lamb, www.paulscode.cominecraftFormatting

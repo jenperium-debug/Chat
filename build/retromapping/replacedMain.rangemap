@@ -1,0 +1,45 @@
+Unsupposrted library path: C:\Users\Semka\Desktop\Cars\build\classes\java\api
+Unsupposrted library path: C:\Users\Semka\Desktop\Cars\build\resources\api
+Symbol range map extraction starting
+Processing 2 files
+startProcessing "com/cars/project/Cars.java" md5: d6b534819e555e4c6d2872e92530b1d4
+@|com/cars/project/Cars.java|8|24|com.cars.project|package|com.cars.project|(file)
+Class Start: com.cars.project.Cars
+   @|com/cars/project/Cars.java|143|146|Mod|class|net.minecraftforge.fml.common.Mod|false
+   @|com/cars/project/Cars.java|147|152|modid|method|net.minecraftforge.fml.common.Mod|modid|()Ljava/lang/String;
+   @|com/cars/project/Cars.java|163|167|name|method|net.minecraftforge.fml.common.Mod|name|()Ljava/lang/String;
+   @|com/cars/project/Cars.java|178|185|version|method|net.minecraftforge.fml.common.Mod|version|()Ljava/lang/String;
+   @|com/cars/project/Cars.java|220|224|Cars|class|com.cars.project.Cars|false
+   Method Start: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/cars/project/Cars.java|295|300|event|param|com.cars.project.Cars|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V|event|0
+      @|com/cars/project/Cars.java|233|249|Mod.EventHandler|class|net.minecraftforge.fml.common.Mod.EventHandler|false
+      @|com/cars/project/Cars.java|267|271|init|method|com.cars.project.Cars|init|(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+      @|com/cars/project/Cars.java|272|294|FMLInitializationEvent|class|net.minecraftforge.fml.common.event.FMLInitializationEvent|false
+      @|com/cars/project/Cars.java|313|319|System|class|java.lang.System|false
+      @|com/cars/project/Cars.java|320|323|out|field|java.lang.System|out
+      @|com/cars/project/Cars.java|324|331|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+   Method End: init(Lnet/minecraftforge/fml/common/event/FMLInitializationEvent;)V
+Class End  : com.cars.project.Cars
+endProcessing "com/cars/project/Cars.java"
+
+startProcessing "com/cars/project/mixin/ExampleMixin.java" md5: 723e744232e45b2bdbd2652a78fb0166
+@|com/cars/project/mixin/ExampleMixin.java|8|30|com.cars.project.mixin|package|com.cars.project.mixin|(file)
+Class Start: com.cars.project.mixin.ExampleMixin
+   @|com/cars/project/mixin/ExampleMixin.java|292|297|Mixin|class|org.spongepowered.asm.mixin.Mixin|false
+   @|com/cars/project/mixin/ExampleMixin.java|298|309|GuiMainMenu|class|net.minecraft.client.gui.GuiMainMenu|false
+   @|com/cars/project/mixin/ExampleMixin.java|330|342|ExampleMixin|class|com.cars.project.mixin.ExampleMixin|false
+   Method Start: init(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+      @|com/cars/project/mixin/ExampleMixin.java|433|437|info|param|com.cars.project.mixin.ExampleMixin|init|(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V|info|0
+      @|com/cars/project/mixin/ExampleMixin.java|350|356|Inject|class|org.spongepowered.asm.mixin.injection.Inject|false
+      @|com/cars/project/mixin/ExampleMixin.java|357|359|at|method|org.spongepowered.asm.mixin.injection.Inject|at|()[Lorg/spongepowered/asm/mixin/injection/At;
+      @|com/cars/project/mixin/ExampleMixin.java|363|365|At|class|org.spongepowered.asm.mixin.injection.At|false
+      @|com/cars/project/mixin/ExampleMixin.java|375|381|method|method|org.spongepowered.asm.mixin.injection.Inject|method|()[Ljava/lang/String;
+      @|com/cars/project/mixin/ExampleMixin.java|415|419|init|method|com.cars.project.mixin.ExampleMixin|init|(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+      @|com/cars/project/mixin/ExampleMixin.java|420|432|CallbackInfo|class|org.spongepowered.asm.mixin.injection.callback.CallbackInfo|false
+      @|com/cars/project/mixin/ExampleMixin.java|449|455|System|class|java.lang.System|false
+      @|com/cars/project/mixin/ExampleMixin.java|456|459|out|field|java.lang.System|out
+      @|com/cars/project/mixin/ExampleMixin.java|460|467|println|method|java.io.PrintStream|println|(Ljava/lang/String;)V
+   Method End: init(Lorg/spongepowered/asm/mixin/injection/callback/CallbackInfo;)V
+Class End  : com.cars.project.mixin.ExampleMixin
+endProcessing "com/cars/project/mixin/ExampleMixin.java"
+

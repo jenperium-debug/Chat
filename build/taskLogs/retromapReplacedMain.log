@@ -1,0 +1,15 @@
+Processing 2 files
+Start Processing: com/cars/project/Cars.java
+New Key: class net/minecraftforge/fml/common/Mod
+Import: net.minecraftforge.fml.common.Mod
+Import: net.minecraftforge.fml.common.event.FMLInitializationEvent
+End  Processing: com/cars/project/Cars.java
+
+Start Processing: com/cars/project/mixin/ExampleMixin.java
+Import: net.minecraft.client.gui.GuiMainMenu
+Import: org.spongepowered.asm.mixin.Mixin
+Import: org.spongepowered.asm.mixin.injection.At
+Import: org.spongepowered.asm.mixin.injection.Inject
+Import: org.spongepowered.asm.mixin.injection.callback.CallbackInfo
+End  Processing: com/cars/project/mixin/ExampleMixin.java
+

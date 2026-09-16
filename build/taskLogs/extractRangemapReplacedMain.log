@@ -1,0 +1,10 @@
+Unsupposrted library path: C:\Users\Semka\Desktop\Cars\build\classes\java\api
+Unsupposrted library path: C:\Users\Semka\Desktop\Cars\build\resources\api
+Symbol range map extraction starting
+Processing 2 files
+startProcessing "com/cars/project/Cars.java" md5: d6b534819e555e4c6d2872e92530b1d4
+endProcessing "com/cars/project/Cars.java"
+
+startProcessing "com/cars/project/mixin/ExampleMixin.java" md5: 723e744232e45b2bdbd2652a78fb0166
+endProcessing "com/cars/project/mixin/ExampleMixin.java"
+

@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Cars
+MixinConfigs: cars.mixins.json
+Implementation-Version: 1.0.0-SNAPSHOT
+Specification-Vendor: Semka
+Specification-Title: Cars
+Implementation-Timestamp: 2026-09-16T13:09:44+0300
+TweakClass: org.spongepowered.asm.launch.MixinTweaker
+Specification-Version: 1
+Implementation-Vendor: Semka
+
